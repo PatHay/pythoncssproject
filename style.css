@@ -42,10 +42,25 @@
 }
 #search{
     height: 90px;
-    width: 450px;
+    width: 410px;
     background-color: #1e415e;
     display: inline-block;
     vertical-align: top;
+    margin: 20px 0px 0px 45px;
+}
+.spic{
+    height: 40px;
+    width: 35px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    border-radius: 5px;
+    background-color: black;
+    vertical-align:middle
+}
+input[type=text]{
+    width: 170px;
+    height:30px;
 }
 #sbox{
     height: 50px;
